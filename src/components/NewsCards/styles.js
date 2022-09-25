@@ -15,7 +15,7 @@ const styles = makeStyles({ // creates a hook
         height: '45vh',
         padding: '10%',
         borderRadius: 10,
-        color: 'black',
+        color: 'white',
       },
       infoCard: {
         display: 'flex', flexDirection: 'column', textAlign: 'center',

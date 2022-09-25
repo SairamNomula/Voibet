@@ -4,10 +4,14 @@ import {Grid, Grow, Typography} from '@material-ui/core'
 import useStyles from './styles';
 
 const infoCards = [
-  { color: '#0F4C75', title: 'Latest News', text: 'Give me the latest news.' },
-  { color: '#3282B8', title: 'News by Sources (IN)', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed', text: 'News from BBC.' },
-  { color: '#0F4C75', title: 'News by Categories', info: 'Business, Entertainment, Health, Science, Sports, Technology', text: 'Give me the latest Sports news.' },
-  { color: '#3282B8', title: 'News by Terms', info: 'Bitcoin, GTA 6, Covid, Narendra Modi', text: 'What\'s up with GTA 6?' },
+  { color: '#023e8a', title: 'Latest News', text: 'Give me the latest news.' },
+  { color: '#0077b6', title: 'News by Sources (IN)', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed', text: 'News from BBC.' },
+  { color: '#0096c7', title: 'News by Categories', info: 'Business, Entertainment, Health, Science, Sports, Technology', text: 'Give me the latest Sports news.' },
+  { color: '#00b4d8', title: 'News by Terms', info: 'Bitcoin, GTA 6, Covid, Narendra Modi', text: 'What\'s up with GTA 6?' },
+  { color: '#023e8a', title: ' ', text: 'What does this app do?, How does this work?, What can I do here?, How should I use this?' },
+  { color: '#0077b6', title: 'Recipes by Meal Type', text: 'Say breakfast, lunch, dinner, snack or teatime' },
+  { color: '#0096c7', title: 'Recipes by Dish Type', text: 'Say something like pancake, dessert, soup, salad'},
+  { color: '#00b4d8', title: 'Recipes by Cuisine Type', text: 'Say something like French, Japanese, Chinese' },
 ];
 
 
