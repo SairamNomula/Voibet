@@ -8,13 +8,13 @@ export default makeStyles({
       border: 'solid',
     },
     fullHeightCard: {
-      height: '100%',
+      height: '80%',
     },
     card: {
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'space-between',
-      borderBottom: '10px solid white',
+      borderBottom: '10px solid grey',
     },
     activeCard: {
       borderBottom: '10px solid #22289a',
@@ -28,7 +28,7 @@ export default makeStyles({
       margin: '20px',
     },
     title: {
-      padding: '0 16px',
+      padding: '0 15px',
     },
     cardActions: {
       padding: '0 16px 8px 16px',
