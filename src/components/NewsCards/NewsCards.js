@@ -5,7 +5,7 @@ import useStyles from './styles';
 
 const infoCards = [
   { color: '#0F4C75', title: 'Latest News', text: 'Give me the latest news.' },
-  { color: '#3282B8', title: 'News by Sources', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed', text: 'News from BBC.' },
+  { color: '#3282B8', title: 'News by Sources (IN)', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed', text: 'News from BBC.' },
   { color: '#0F4C75', title: 'News by Categories', info: 'Business, Entertainment, Health, Science, Sports, Technology', text: 'Give me the latest Sports news.' },
   { color: '#3282B8', title: 'News by Terms', info: 'Bitcoin, GTA 6, Covid, Narendra Modi', text: 'What\'s up with GTA 6?' },
 ];
